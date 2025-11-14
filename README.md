@@ -9,7 +9,7 @@ V1RUS INTERNAL ESP
 
 <img width="1919" height="1060" alt="Снимок экрана 2025-11-14 220400" src="https://github.com/user-attachments/assets/e3f72341-8e73-494f-b0ec-4f73227142ab" />
 
-
+ИНСТРУКЦИЯ:
 1. Запускаем инжектор smi_gui
 2. Заходим в игру ANCIENT
 3. Когда зашли в игру, инжекторе нажимаем Refresh, автоматом находит игру

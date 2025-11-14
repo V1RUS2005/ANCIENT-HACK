@@ -1,0 +1,11 @@
+1. Запускаем инжектор smi_gui
+2. Заходим в игру ANCIENT
+3. Когда зашли в игру, инжекторе нажимаем Refresh, автоматом находит игру
+4. В Assembly to inject вставляем длл чита ANCIENTXESP.dll
+5. Class name пишем Loader
+6. Method name пишем Init
+7. Нажимаем на кнопку инжекта 
+
+
+
+14.11.2025 
